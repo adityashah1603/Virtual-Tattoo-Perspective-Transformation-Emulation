@@ -35,7 +35,7 @@ Traditional tattoo design processes often involve static images or sketches, mak
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/vt-pte.git
+   git clone https://github.com/adityashah1603/vt-pte.git
    cd vt-pte
 
 ## Contributing
